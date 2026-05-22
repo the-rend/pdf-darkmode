@@ -15,5 +15,3 @@ python darkmode2.py "original.pdf"
 ```
 
 The output: `original - darkmode.pdf`
-
-The script always adds the dark background and uses its built-in text brightness handling.
